@@ -1,7 +1,7 @@
 {
 	"name": "Banner",
 	"short_name": "Banner",
-	"description": "A simple and clean banner generator",
+	"description": "A clean & simple banner generator",
 	"icons": [
 		{
 			"src": "icons/icon-48x48.png",

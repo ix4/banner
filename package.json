@@ -2,10 +2,10 @@
 	"name": "Banner",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/liyasthomas/banner.git"
+		"url": "https://github.com/ix4/banner.git"
 	},
-	"description": "A simple and clean banner generator",
-	"author": "liyasthomas",
+	"description": "A clean & simple banner generator",
+	"author": "ix4",
 	"version": "0.1.9",
 	"devDependencies": {
 		"jshint": "^2.10.2"
